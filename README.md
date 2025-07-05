@@ -89,6 +89,10 @@ src/main/java/com/projext/urlShortner/
 ├── UrlShortApplication.java                 # Main Spring Boot app
 loggingMiddleware/LogMiddleware.java         # Custom logging middleware
 ```
+## Output ScreenShots
+![output](https://github.com/user-attachments/assets/36b97796-949b-4ce0-94e0-c62dc3c80822)
+![postOutPut](https://github.com/user-attachments/assets/68110c6f-3b6a-4721-802c-b69143a5ad24)
+
 
 ## Notes
 
