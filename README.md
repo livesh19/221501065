@@ -49,8 +49,8 @@ A robust HTTP URL Shortener Microservice built with Java and Spring Boot. This s
   ```json
   {
     "url": "https://example.com/very/long/url",
-    "validity": 30,           // (optional, in minutes, defaults to 30)
-    "shortcode": "custom1"    // (optional, custom shortcode)
+    "validity": 30,           
+    "shortcode": "custom1"    
   }
   ```
 - **Response (201):**
@@ -79,7 +79,7 @@ A robust HTTP URL Shortener Microservice built with Java and Spring Boot. This s
 ## Project Structure
 
 ```
-src/main/java/com/projext/urlShort/
+src/main/java/com/projext/urlShortner/
 ├── controller/UrlShortenerController.java   # REST API endpoints
 ├── service/UrlShortenerService.java         # Business logic
 ├── model/ShortenRequest.java                # Request DTO
